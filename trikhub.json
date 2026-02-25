@@ -1,0 +1,10 @@
+{
+  "displayName": "Hash Calculator Trik",
+  "shortDescription": "Tool-mode trik for computing and comparing cryptographic hashes",
+  "categories": ["utilities", "crypto"],
+  "keywords": ["hash", "sha256", "md5", "sha1", "crypto", "tool-mode"],
+  "author": {
+    "name": "Molefas",
+    "github": "Molefas"
+  }
+}
