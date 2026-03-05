@@ -3,7 +3,7 @@
   "id": "trik-hash",
   "name": "Hash Calculator",
   "description": "Compute and compare cryptographic hashes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "agent": {
     "mode": "tool",
     "domain": [
