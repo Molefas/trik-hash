@@ -2,14 +2,15 @@
   "schemaVersion": 2,
   "id": "trik-hash",
   "name": "Hash Calculator",
-  "description": "Compute and compare cryptographic hashes",
+  "description": "A demo Trik to Compute and compare cryptographic hashes - JavaScript version",
   "version": "1.0.3",
   "agent": {
     "mode": "tool",
     "domain": [
       "hashing",
       "crypto",
-      "utilities"
+      "utilities",
+      "demo"
     ]
   },
   "tools": {

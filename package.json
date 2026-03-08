@@ -9,7 +9,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@trikhub/sdk": "dev"
+    "@trikhub/sdk": "0.18.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
