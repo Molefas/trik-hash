@@ -3,7 +3,7 @@
   "id": "trik-hash",
   "name": "Hash Calculator",
   "description": "A demo Trik to Compute and compare cryptographic hashes - JavaScript version",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "agent": {
     "mode": "tool",
     "domain": [
